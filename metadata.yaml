@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38191
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37528#Quick-Action
 gutenberg_issued: '2011-09-25'
 gutenberg_type: Text
 identifiers:
